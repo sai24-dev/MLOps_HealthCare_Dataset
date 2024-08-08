@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/683fbbf683f64444b65bc296480add00/artifacts
+end_time: 1723101608781
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 683fbbf683f64444b65bc296480add00
+run_name: unruly-sow-340
+run_uuid: 683fbbf683f64444b65bc296480add00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723101585357
+status: 3
+tags: []
+user_id: codespace

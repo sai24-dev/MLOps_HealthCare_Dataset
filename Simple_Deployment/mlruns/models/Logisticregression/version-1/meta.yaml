@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723104067578
+current_stage: None
+description: null
+last_updated_timestamp: 1723104067578
+name: Logisticregression
+run_id: 0c01cf5377ce4f5d90db3684a9f77102
+run_link: null
+source: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0c01cf5377ce4f5d90db3684a9f77102/artifacts/lr_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0c01cf5377ce4f5d90db3684a9f77102/artifacts/lr_model
+user_id: null
+version: 1

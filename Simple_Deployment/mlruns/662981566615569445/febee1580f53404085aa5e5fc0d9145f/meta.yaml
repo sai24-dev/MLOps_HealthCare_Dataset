@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/febee1580f53404085aa5e5fc0d9145f/artifacts
+end_time: 1723102963906
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: febee1580f53404085aa5e5fc0d9145f
+run_name: fun-finch-85
+run_uuid: febee1580f53404085aa5e5fc0d9145f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723102936874
+status: 3
+tags: []
+user_id: codespace

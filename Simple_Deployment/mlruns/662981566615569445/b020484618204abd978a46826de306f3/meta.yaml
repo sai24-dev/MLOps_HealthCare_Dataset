@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/b020484618204abd978a46826de306f3/artifacts
+end_time: 1723033649213
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: b020484618204abd978a46826de306f3
+run_name: skillful-hound-588
+run_uuid: b020484618204abd978a46826de306f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723033638553
+status: 3
+tags: []
+user_id: codespace

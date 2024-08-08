@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/0/22629fcea76846de983869b61381b1aa/artifacts
+end_time: 1723023020641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22629fcea76846de983869b61381b1aa
+run_name: gaudy-gnu-332
+run_uuid: 22629fcea76846de983869b61381b1aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723023016673
+status: 3
+tags: []
+user_id: codespace

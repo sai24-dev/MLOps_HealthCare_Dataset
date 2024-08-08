@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/9dc0ddd6fb8e4b75a4340cde4a505713/artifacts
+end_time: 1723037229354
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 9dc0ddd6fb8e4b75a4340cde4a505713
+run_name: languid-snail-994
+run_uuid: 9dc0ddd6fb8e4b75a4340cde4a505713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723037213333
+status: 3
+tags: []
+user_id: codespace

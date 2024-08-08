@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723104065771
+current_stage: None
+description: null
+last_updated_timestamp: 1723104065771
+name: RandomForestModel
+run_id: 0c01cf5377ce4f5d90db3684a9f77102
+run_link: null
+source: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0c01cf5377ce4f5d90db3684a9f77102/artifacts/rf_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0c01cf5377ce4f5d90db3684a9f77102/artifacts/rf_model
+user_id: null
+version: 1

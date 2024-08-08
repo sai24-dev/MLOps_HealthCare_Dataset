@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/893e7414c668479bb75375bb3000a642/artifacts
+end_time: 1723036778969
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 893e7414c668479bb75375bb3000a642
+run_name: orderly-deer-682
+run_uuid: 893e7414c668479bb75375bb3000a642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723036778955
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,72 @@
+# version: '3.7'
+
+# volumes: 
+#   grafana_data: {}
+
+# networks:
+#   front-tier:
+#   back-tier:
+
+# services:
+#   db:
+#     image: postgres
+#     restart: always
+#     environment:
+#       POSTGRES_USER: myuser
+#       POSTGRES_PASSWORD: mypassword
+#       POSTGRES_DB: metrics_db
+#     ports:
+#       - "5432:5432"
+#     networks:
+#       - back-tier
+
+#   adminer:
+#     image: adminer
+#     restart: always
+#     ports:
+#       - "8080:8080"
+#     networks:
+#       - back-tier
+#       - front-tier  
+
+#   grafana:
+#     image: grafana/grafana
+#     container_name: grafana
+#     environment:
+#       GF_SECURITY_ADMIN_USER: admin
+#       GF_SECURITY_ADMIN_PASSWORD: admin
+#     ports:
+#       - "3000:3000"
+#     volumes:
+#       - ./config/grafana_datasources.yaml:/etc/grafana/provisioning/datasources/datasource.yaml:ro
+#       - ./config/grafana_dashboards.yaml:/etc/grafana/provisioning/dashboards/dashboards.yaml:ro
+#       - ./dashboards:/opt/grafana/dashboards
+#     networks:
+#       - back-tier
+#       - front-tier
+#     restart: always
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    environment:
+      POSTGRES_DB: mlops_db
+      POSTGRES_USER: mlops_user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

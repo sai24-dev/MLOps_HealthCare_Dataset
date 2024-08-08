@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/6bf8f9397a5b4f4fa5edce8e01e4b7e3/artifacts
+end_time: 1723032286039
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 6bf8f9397a5b4f4fa5edce8e01e4b7e3
+run_name: gifted-panda-125
+run_uuid: 6bf8f9397a5b4f4fa5edce8e01e4b7e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723032286026
+status: 4
+tags: []
+user_id: codespace

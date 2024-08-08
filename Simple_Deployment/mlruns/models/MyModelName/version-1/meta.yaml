@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723102546193
+current_stage: None
+description: null
+last_updated_timestamp: 1723102546193
+name: MyModelName
+run_id: b7319b4dd0b44214b3ffd0726533e16f
+run_link: null
+source: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/b7319b4dd0b44214b3ffd0726533e16f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/b7319b4dd0b44214b3ffd0726533e16f/artifacts/model
+user_id: null
+version: 1

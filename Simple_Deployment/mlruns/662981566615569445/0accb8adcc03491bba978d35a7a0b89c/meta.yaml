@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0accb8adcc03491bba978d35a7a0b89c/artifacts
+end_time: 1723036889672
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 0accb8adcc03491bba978d35a7a0b89c
+run_name: resilient-mare-836
+run_uuid: 0accb8adcc03491bba978d35a7a0b89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723036873826
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/b7319b4dd0b44214b3ffd0726533e16f/artifacts
+end_time: 1723102568392
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: b7319b4dd0b44214b3ffd0726533e16f
+run_name: angry-cub-292
+run_uuid: b7319b4dd0b44214b3ffd0726533e16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723102544231
+status: 3
+tags: []
+user_id: codespace

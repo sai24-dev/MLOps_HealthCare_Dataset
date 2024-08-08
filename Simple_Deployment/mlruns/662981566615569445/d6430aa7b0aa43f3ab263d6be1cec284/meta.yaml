@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/d6430aa7b0aa43f3ab263d6be1cec284/artifacts
+end_time: 1723101630710
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: d6430aa7b0aa43f3ab263d6be1cec284
+run_name: overjoyed-vole-81
+run_uuid: d6430aa7b0aa43f3ab263d6be1cec284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723101608893
+status: 3
+tags: []
+user_id: codespace

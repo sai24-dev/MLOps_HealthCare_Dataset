@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/0/8edfb0af21ed47038fdd8787e55b147f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8edfb0af21ed47038fdd8787e55b147f
+run_name: caring-gnat-549
+run_uuid: 8edfb0af21ed47038fdd8787e55b147f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723023674544
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_HealthCare_Dataset/Simple_Deployment/mlruns/662981566615569445/0c01cf5377ce4f5d90db3684a9f77102/artifacts
+end_time: 1723104083549
+entry_point_name: ''
+experiment_id: '662981566615569445'
+lifecycle_stage: active
+run_id: 0c01cf5377ce4f5d90db3684a9f77102
+run_name: shivering-shrimp-739
+run_uuid: 0c01cf5377ce4f5d90db3684a9f77102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723104056366
+status: 3
+tags: []
+user_id: codespace
